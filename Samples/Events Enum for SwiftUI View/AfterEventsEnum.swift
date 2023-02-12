@@ -9,6 +9,7 @@ import SwiftUI
 
 //MARK: - Container
 /// Binds data from State and sends actions to store
+@available(iOS 16.0, *)
 struct AfterEventsEnumContainerView: View {
     var body: some View {
         NavigationStack {
@@ -33,6 +34,7 @@ fileprivate enum Event {
     case navigate(Route)
 }
 
+@available(iOS 16.0, *)
 fileprivate extension AfterEventsEnumContainerView {
     func perform(_ event: Event) {
         switch event {
@@ -46,6 +48,7 @@ fileprivate extension AfterEventsEnumContainerView {
 }
 
 //MARK: - Component
+@available(iOS 16.0, *)
 fileprivate struct ComponentView: View {
     struct Props {
         var title: String
@@ -106,6 +109,7 @@ fileprivate struct Item {
 }
 
 //MARK: - Preview
+@available(iOS 16.0, *)
 struct AfterEventsEnum_Previews: PreviewProvider {
     static var previews: some View {
         AfterEventsEnumContainerView()

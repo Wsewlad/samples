@@ -9,6 +9,7 @@ import SwiftUI
 
 //MARK: - Container
 /// Binds data from State and sends actions to store
+@available(iOS 16.0, *)
 struct BeforeEventsEnumContainerView: View {
     var body: some View {
         NavigationStack {
@@ -29,6 +30,7 @@ struct BeforeEventsEnumContainerView: View {
 }
 
 //MARK: - Component
+@available(iOS 16.0, *)
 fileprivate struct ComponentView: View {
     struct Props {
         var title: String
@@ -93,6 +95,7 @@ fileprivate struct Item {
 }
 
 //MARK: - Preview
+@available(iOS 16.0, *)
 struct BeforeEventsEnum_Previews: PreviewProvider {
     static var previews: some View {
         BeforeEventsEnumContainerView()
