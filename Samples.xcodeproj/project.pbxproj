@@ -20,6 +20,8 @@
 		82DEE2512997A41200795143 /* BeforeEventsEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82DEE2502997A41200795143 /* BeforeEventsEnum.swift */; };
 		82DEE2532997A41F00795143 /* AfterEventsEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82DEE2522997A41F00795143 /* AfterEventsEnum.swift */; };
 		82DEE2562997A72600795143 /* PlaceholderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82DEE2552997A72600795143 /* PlaceholderView.swift */; };
+		82F9B929299D32D500A4F680 /* GlobalRouting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82F9B928299D32D500A4F680 /* GlobalRouting.swift */; };
+		82F9B92B299D3A7700A4F680 /* RootViewWithGlobalRouting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82F9B92A299D3A7600A4F680 /* RootViewWithGlobalRouting.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +39,8 @@
 		82DEE2502997A41200795143 /* BeforeEventsEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeforeEventsEnum.swift; sourceTree = "<group>"; };
 		82DEE2522997A41F00795143 /* AfterEventsEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfterEventsEnum.swift; sourceTree = "<group>"; };
 		82DEE2552997A72600795143 /* PlaceholderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceholderView.swift; sourceTree = "<group>"; };
+		82F9B928299D32D500A4F680 /* GlobalRouting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalRouting.swift; sourceTree = "<group>"; };
+		82F9B92A299D3A7600A4F680 /* RootViewWithGlobalRouting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewWithGlobalRouting.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +93,7 @@
 		82C10E4F2997A0FC00A54B04 /* Samples */ = {
 			isa = PBXGroup;
 			children = (
+				82F9B925299D321700A4F680 /* Global Routing */,
 				82C10E502997A0FC00A54B04 /* SamplesApp.swift */,
 				82DEE2542997A6FA00795143 /* Common */,
 				82DEE24F2997A3A200795143 /* Events Enum for SwiftUI View */,
@@ -124,6 +129,15 @@
 				82DEE2552997A72600795143 /* PlaceholderView.swift */,
 			);
 			path = Common;
+			sourceTree = "<group>";
+		};
+		82F9B925299D321700A4F680 /* Global Routing */ = {
+			isa = PBXGroup;
+			children = (
+				82F9B928299D32D500A4F680 /* GlobalRouting.swift */,
+				82F9B92A299D3A7600A4F680 /* RootViewWithGlobalRouting.swift */,
+			);
+			path = "Global Routing";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,6 +213,7 @@
 				82DEE2512997A41200795143 /* BeforeEventsEnum.swift in Sources */,
 				82C10E532997A0FC00A54B04 /* ContentView.swift in Sources */,
 				82DEE2532997A41F00795143 /* AfterEventsEnum.swift in Sources */,
+				82F9B929299D32D500A4F680 /* GlobalRouting.swift in Sources */,
 				82A376B829990359000CAD4C /* (Issue) List Without Separator.swift in Sources */,
 				82A376B629990276000CAD4C /* View+hideListRowSeparator.swift in Sources */,
 				82636255299AB62400E6FFD4 /* Routing.swift in Sources */,
@@ -207,6 +222,7 @@
 				82636257299ABBD100E6FFD4 /* BeforeRouting.swift in Sources */,
 				82A376B42998E6C4000CAD4C /* (Solution) List Without Separator.swift in Sources */,
 				82C10E512997A0FC00A54B04 /* SamplesApp.swift in Sources */,
+				82F9B92B299D3A7700A4F680 /* RootViewWithGlobalRouting.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct RootRouting: Routing {
-    enum Route {
+    enum Route: Equatable, Hashable {
         case calendar(current: Date)
         case stats
         case chat

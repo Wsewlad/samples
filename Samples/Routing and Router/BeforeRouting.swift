@@ -59,17 +59,31 @@ struct CalendarView: View {
                 .font(.title)
                 .bold()
         }
+        .foregroundColor(.secondary)
+        .font(.largeTitle)
     }
 }
 
 struct StatsView: View {
-    var body: some View { Label("Stats", systemImage: "chart.bar.fill") }
+    var body: some View {
+        Label("Stats", systemImage: "chart.bar.fill")
+            .foregroundColor(.secondary)
+            .font(.largeTitle)
+    }
 }
 
 struct ChatView: View {
-    var body: some View { Label("Chat", systemImage: "bubble.left.and.bubble.right") }
+    var body: some View {
+        Label("Chat", systemImage: "bubble.left.and.bubble.right")
+            .foregroundColor(.secondary)
+            .font(.largeTitle)
+    }
 }
 
 struct FavoritesView: View {
-    var body: some View { Label("Favorites", systemImage: "star.fill") }
+    var body: some View {
+        Label("Favorites", systemImage: "star.fill")
+            .foregroundColor(.secondary)
+            .font(.largeTitle)
+        }
 }
