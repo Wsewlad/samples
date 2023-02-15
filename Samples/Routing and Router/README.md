@@ -1,3 +1,3 @@
 ***
-> If you like what I do you can by me a ☕️ [here](https://www.buymeacoffee.com/vfil)
+> If you like what I do and want to support me, please [buy me a coffee ☕️](https://www.buymeacoffee.com/vfil)
 ***
