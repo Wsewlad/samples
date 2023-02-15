@@ -6,5 +6,8 @@
 <img src="../../bmc/bmc_qr.png" width="170px">
 </a>
 
-<img src="GlobalRouting.png" width="500px">
-<img src="resources/RootViewWithGlobalRouting-preview.png" width="500px">
+# Global Routing
+implemented using [Routing protocol](https://github.com/Wsewlad/samples/tree/main/Samples/Routing%20and%20Router) and iOS16's [NavigationStack](https://developer.apple.com/documentation/swiftui/navigationstack)
+
+<img src="resources/RootViewWithGlobalRouting-preview.png">
+<img src="resources/GlobalRouting.png">
