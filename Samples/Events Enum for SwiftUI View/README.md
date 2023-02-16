@@ -28,5 +28,5 @@ struct SamplesApp: App {
 }
 ```
 
-<img src="resources/BeforeEventsEnum.png">
-<img src="resources/AfterEventsEnum.png">
+<img src="resources/BeforeEventsEnum.png" width="49%" align="left">
+<img src="resources/AfterEventsEnum.png" width="49%">
