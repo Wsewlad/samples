@@ -1,8 +1,12 @@
 > Thanks author for the [article](https://azamsharp.com/2023/01/24/grouping-events-swiftui-view-using-enums.md.html)
 
+> My related post in [LinkedIn](https://www.linkedin.com/posts/vladyslav-fil_iosdevelopment-swiftui-codingtips-activity-7030172083221319680-D6kS?utm_source=share&utm_medium=member_desktop)
+
 ###### If you like what I do and want to support me, please
 
-<a href="https://www.buymeacoffee.com/vfil">
+<img src="resources/Device.png" width="300px" align="right">
+
+<a href="https://www.buymeacoffee.com/vfil" align="left">
 <img src="../../bmc/bmc-button.png" width="170px">
 <br/>
 <img src="../../bmc/bmc_qr.png" width="170px">
@@ -23,3 +27,6 @@ struct SamplesApp: App {
     }
 }
 ```
+
+<img src="resources/BeforeEventsEnum.png">
+<img src="resources/AfterEventsEnum.png">
