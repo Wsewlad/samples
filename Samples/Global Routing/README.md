@@ -1,3 +1,4 @@
+> My related post in [LinkedIn](https://www.linkedin.com/posts/vladyslav-fil_iosdevelopment-swiftui-codingtips-activity-7031876877497573376-5JRE?utm_source=share&utm_medium=member_desktop)
 ###### If you like what I do and want to support me, please
 
 <a href="https://www.buymeacoffee.com/vfil">
@@ -11,3 +12,4 @@ implemented using [Routing protocol](https://github.com/Wsewlad/samples/tree/mai
 
 <img src="resources/RootViewWithGlobalRouting-preview.png">
 <img src="resources/GlobalRouting.png">
+<img src="resources/RootRouting.png">
