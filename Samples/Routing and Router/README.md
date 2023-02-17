@@ -1,6 +1,6 @@
 > My related post in [LinkedIn](https://www.linkedin.com/posts/vladyslav-fil_iosdevelopment-swiftui-codingtips-activity-7031169346613719040-zURa)
 
-###### If you like what I do and want to support me, please
+###### If my work has brought you value or made your day a little brighter, show your appreciation
 
 <a href="https://www.buymeacoffee.com/vfil">
 <img src="../../bmc/bmc-button.png" width="170px">
