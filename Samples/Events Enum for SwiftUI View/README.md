@@ -2,7 +2,7 @@
 
 > My related post in [LinkedIn](https://www.linkedin.com/posts/vladyslav-fil_iosdevelopment-swiftui-codingtips-activity-7030172083221319680-D6kS?utm_source=share&utm_medium=member_desktop)
 
-###### If you like what I do and want to support me, please
+###### If my work has brought you value or made your day a little brighter, show your appreciation
 
 <img src="resources/Device.png" width="300px" align="right">
 
