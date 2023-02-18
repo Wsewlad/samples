@@ -4,6 +4,7 @@
 implemented using [Routing protocol](https://github.com/Wsewlad/samples/tree/main/Samples/Routing%20and%20Router) and iOS16's [NavigationStack](https://developer.apple.com/documentation/swiftui/navigationstack)
 
 <img src="resources/RootViewWithGlobalRouting-updated.png" title="GlobalRouting usage examples (before View and Array extensions and after)">
+
 ```Swift
 import SwiftUI
 
@@ -41,6 +42,7 @@ struct RootViewWithGlobalRoutingWithExtensions_Previews: PreviewProvider {
 ```
 ## GlobalRouting
 <img src="resources/GlobalRouting.png">
+
 ```Swift
 import SwiftUI
 
