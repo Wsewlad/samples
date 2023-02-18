@@ -10,6 +10,9 @@
 		82636255299AB62400E6FFD4 /* Routing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82636254299AB62400E6FFD4 /* Routing.swift */; };
 		82636257299ABBD100E6FFD4 /* BeforeRouting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82636256299ABBD100E6FFD4 /* BeforeRouting.swift */; };
 		82636259299ABBDF00E6FFD4 /* AfterRouting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82636258299ABBDF00E6FFD4 /* AfterRouting.swift */; };
+		82A2DF8029A0BBF80052E790 /* Array+GlobalRouting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82A2DF7F29A0BBF80052E790 /* Array+GlobalRouting.swift */; };
+		82A2DF8229A0BC490052E790 /* View+NavigationStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82A2DF8129A0BC480052E790 /* View+NavigationStack.swift */; };
+		82A2DF8429A0BCE50052E790 /* RootViewWithGlobalRouting+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82A2DF8329A0BCE50052E790 /* RootViewWithGlobalRouting+Extensions.swift */; };
 		82A376B42998E6C4000CAD4C /* (Solution) List Without Separator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82A376B32998E6C4000CAD4C /* (Solution) List Without Separator.swift */; };
 		82A376B629990276000CAD4C /* View+hideListRowSeparator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82A376B529990276000CAD4C /* View+hideListRowSeparator.swift */; };
 		82A376B829990359000CAD4C /* (Issue) List Without Separator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82A376B729990359000CAD4C /* (Issue) List Without Separator.swift */; };
@@ -28,6 +31,9 @@
 		82636254299AB62400E6FFD4 /* Routing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Routing.swift; sourceTree = "<group>"; };
 		82636256299ABBD100E6FFD4 /* BeforeRouting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeforeRouting.swift; sourceTree = "<group>"; };
 		82636258299ABBDF00E6FFD4 /* AfterRouting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfterRouting.swift; sourceTree = "<group>"; };
+		82A2DF7F29A0BBF80052E790 /* Array+GlobalRouting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Array+GlobalRouting.swift"; sourceTree = "<group>"; };
+		82A2DF8129A0BC480052E790 /* View+NavigationStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+NavigationStack.swift"; sourceTree = "<group>"; };
+		82A2DF8329A0BCE50052E790 /* RootViewWithGlobalRouting+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RootViewWithGlobalRouting+Extensions.swift"; sourceTree = "<group>"; };
 		82A376B32998E6C4000CAD4C /* (Solution) List Without Separator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "(Solution) List Without Separator.swift"; sourceTree = "<group>"; };
 		82A376B529990276000CAD4C /* View+hideListRowSeparator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+hideListRowSeparator.swift"; sourceTree = "<group>"; };
 		82A376B729990359000CAD4C /* (Issue) List Without Separator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "(Issue) List Without Separator.swift"; sourceTree = "<group>"; };
@@ -136,6 +142,9 @@
 			children = (
 				82F9B928299D32D500A4F680 /* GlobalRouting.swift */,
 				82F9B92A299D3A7600A4F680 /* RootViewWithGlobalRouting.swift */,
+				82A2DF7F29A0BBF80052E790 /* Array+GlobalRouting.swift */,
+				82A2DF8129A0BC480052E790 /* View+NavigationStack.swift */,
+				82A2DF8329A0BCE50052E790 /* RootViewWithGlobalRouting+Extensions.swift */,
 			);
 			path = "Global Routing";
 			sourceTree = "<group>";
@@ -211,7 +220,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				82DEE2512997A41200795143 /* BeforeEventsEnum.swift in Sources */,
+				82A2DF8029A0BBF80052E790 /* Array+GlobalRouting.swift in Sources */,
+				82A2DF8229A0BC490052E790 /* View+NavigationStack.swift in Sources */,
 				82C10E532997A0FC00A54B04 /* ContentView.swift in Sources */,
+				82A2DF8429A0BCE50052E790 /* RootViewWithGlobalRouting+Extensions.swift in Sources */,
 				82DEE2532997A41F00795143 /* AfterEventsEnum.swift in Sources */,
 				82F9B929299D32D500A4F680 /* GlobalRouting.swift in Sources */,
 				82A376B829990359000CAD4C /* (Issue) List Without Separator.swift in Sources */,
