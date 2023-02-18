@@ -1,4 +1,4 @@
-> My related post in [LinkedIn](https://www.linkedin.com/posts/vladyslav-fil_iosdevelopment-swiftui-codingtips-activity-7031876877497573376-5JRE?utm_source=share&utm_medium=member_desktop)
+> My related posts in LinkedIn [first](https://www.linkedin.com/posts/vladyslav-fil_iosdevelopment-swiftui-codingtips-activity-7031876877497573376-5JRE?utm_source=share&utm_medium=member_desktop) and [second](https://www.linkedin.com/posts/vladyslav-fil_iosdevelopment-swiftui-codingtips-activity-7032660845889257472-sRSh?utm_source=share&utm_medium=member_desktop)
 
 # Global Routing
 implemented using [Routing protocol](https://github.com/Wsewlad/samples/tree/main/Samples/Routing%20and%20Router) and iOS16's [NavigationStack](https://developer.apple.com/documentation/swiftui/navigationstack)
